@@ -1,0 +1,6 @@
+@eventAppAPI.API_HostAddress = http://localhost:5170
+
+GET {{eventAppAPI.API_HostAddress}}/customers/
+Accept: application/json
+
+###

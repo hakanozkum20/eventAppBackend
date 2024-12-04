@@ -1,0 +1,11 @@
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/bin/Debug/net8.0/eventAppAPI.Domain.deps.json
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/bin/Debug/net8.0/eventAppAPI.Domain.dll
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/bin/Debug/net8.0/eventAppAPI.Domain.pdb
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/eventAppAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/eventAppAPI.Domain.AssemblyInfoInputs.cache
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/eventAppAPI.Domain.AssemblyInfo.cs
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/eventAppAPI.Domain.csproj.CoreCompileInputs.cache
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/eventAppAPI.Domain.dll
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/refint/eventAppAPI.Domain.dll
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/eventAppAPI.Domain.pdb
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/ref/eventAppAPI.Domain.dll

@@ -1,0 +1,15 @@
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/bin/Debug/net8.0/eventAppAPI.Application.deps.json
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/bin/Debug/net8.0/eventAppAPI.Application.dll
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/bin/Debug/net8.0/eventAppAPI.Application.pdb
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/bin/Debug/net8.0/eventAppAPI.Domain.dll
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/bin/Debug/net8.0/eventAppAPI.Domain.pdb
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/Debug/net8.0/eventAppAPI.Application.csproj.AssemblyReference.cache
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/Debug/net8.0/eventAppAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/Debug/net8.0/eventAppAPI.Application.AssemblyInfoInputs.cache
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/Debug/net8.0/eventAppAPI.Application.AssemblyInfo.cs
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/Debug/net8.0/eventAppAPI.Application.csproj.CoreCompileInputs.cache
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/Debug/net8.0/eventAppAPI.Application.csproj.CopyComplete
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/Debug/net8.0/eventAppAPI.Application.dll
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/Debug/net8.0/refint/eventAppAPI.Application.dll
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/Debug/net8.0/eventAppAPI.Application.pdb
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/Debug/net8.0/ref/eventAppAPI.Application.dll

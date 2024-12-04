@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0UwMgMKwwHwz6GrBY/xb8IQLjFeNqnKPn4nPYm7elcVs7D6PkR5FY23z0pfZxfezVpi0+X+uHvMRRGWRcOelA==",
+  "success": true,
+  "projectFilePath": "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/eventAppAPI.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/esta/.nuget/packages/microsoft.entityframeworkcore/8.0.11/microsoft.entityframeworkcore.8.0.11.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.11/microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.11/microsoft.entityframeworkcore.analyzers.8.0.11.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.caching.memory/8.0.1/microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.logging/8.0.1/microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

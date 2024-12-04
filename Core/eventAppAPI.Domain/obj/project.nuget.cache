@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2oltzhSuT8r+pBrvnu2KEIBS/XBYJjmZJf0lsz+dQktpsd/0e7TgVc/CHiQle4XD8zIB2Vk8EFdUrXWFGPHK/g==",
+  "success": true,
+  "projectFilePath": "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/eventAppAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/eventAppAPI.Application.csproj": {}
+  },
+  "projects": {
+    "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/eventAppAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/eventAppAPI.Application.csproj",
+        "projectName": "eventAppAPI.Application",
+        "projectPath": "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/eventAppAPI.Application.csproj",
+        "packagesPath": "/home/esta/.nuget/packages/",
+        "outputPath": "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/esta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/eventAppAPI.Domain.csproj": {
+                "projectPath": "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/eventAppAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.10, 8.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/eventAppAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/eventAppAPI.Domain.csproj",
+        "projectName": "eventAppAPI.Domain",
+        "projectPath": "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/eventAppAPI.Domain.csproj",
+        "packagesPath": "/home/esta/.nuget/packages/",
+        "outputPath": "/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/esta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.10, 8.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

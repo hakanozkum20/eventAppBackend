@@ -1,0 +1,17 @@
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/bin/Debug/net8.0/eventAppAPI.Infrastructure.deps.json
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/bin/Debug/net8.0/eventAppAPI.Infrastructure.dll
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/bin/Debug/net8.0/eventAppAPI.Infrastructure.pdb
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/bin/Debug/net8.0/eventAppAPI.Application.dll
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/bin/Debug/net8.0/eventAppAPI.Domain.dll
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/bin/Debug/net8.0/eventAppAPI.Application.pdb
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/bin/Debug/net8.0/eventAppAPI.Domain.pdb
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/eventAppAPI.Infrastructure.csproj.AssemblyReference.cache
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/eventAppAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/eventAppAPI.Infrastructure.AssemblyInfoInputs.cache
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/eventAppAPI.Infrastructure.AssemblyInfo.cs
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/eventAppAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/eventAppAPI.Infrastructure.csproj.CopyComplete
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/eventAppAPI.Infrastructure.dll
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/refint/eventAppAPI.Infrastructure.dll
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/eventAppAPI.Infrastructure.pdb
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/ref/eventAppAPI.Infrastructure.dll
