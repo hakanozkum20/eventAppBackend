@@ -1,20 +1,36 @@
+using System.Globalization;
+using System.Reflection;
+using eventAppAPI.Application.Validators.Events;
+using eventAppAPI.Infrastructure.Filters;
 using eventAppAPI.Persistence;
+using FluentValidation;
+using FluentValidation.AspNetCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
-builder.Services.AddControllers();
 builder.Services.AddPersistenceService();
+
 builder.Services.AddCors(options => options.AddDefaultPolicy(policy =>
-policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000", "https://localhost:3000")
+    policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin()
 
 ));
+
+
+
+
+builder.Services.AddControllers(options => options.Filters.Add<ValidationFilter>())
+    .AddFluentValidation(configuration => configuration.RegisterValidatorsFromAssemblyContaining<CreateEventValidator>())
+.ConfigureApiBehaviorOptions(options => options.SuppressModelStateInvalidFilter = true);
+
+ValidatorOptions.Global.LanguageManager.Enabled = false;
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

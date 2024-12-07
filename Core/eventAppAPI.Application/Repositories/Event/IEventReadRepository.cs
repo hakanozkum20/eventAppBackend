@@ -8,6 +8,7 @@ namespace eventAppAPI.Application.Repositories
 {
     public interface IEventReadRepository : IReadRepository<Event>
     {
+        
 
     }
 }

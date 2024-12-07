@@ -15,3 +15,4 @@
 /home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/refint/eventAppAPI.Infrastructure.dll
 /home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/eventAppAPI.Infrastructure.pdb
 /home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/ref/eventAppAPI.Infrastructure.dll
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/obj/Debug/net8.0/eventAppAPI.Infrastructure.sourcelink.json

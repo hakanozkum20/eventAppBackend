@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vQkZBgqXPvBTMVhMwbPjy11IOeopm0Nkmm1M+SGCENmK+6nFGXaZWiqckY4tdMMnNOThFpwpSvAgCcWJI0Rhaw==",
+  "dgSpecHash": "gke4B86bipURZtLH+aDhDgzMYUzqikA5/kxqbhdvQTFT9X/HiKW0UezA6xdV70WTqsGT1GfT/0CxiNAUJim86A==",
   "success": true,
   "projectFilePath": "/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Infrastructure/eventAppAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/home/esta/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.11.0/fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "/home/esta/.nuget/packages/microsoft.entityframeworkcore/8.0.11/microsoft.entityframeworkcore.8.0.11.nupkg.sha512",
     "/home/esta/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.11/microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512",
     "/home/esta/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.11/microsoft.entityframeworkcore.analyzers.8.0.11.nupkg.sha512",

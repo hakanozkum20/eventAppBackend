@@ -17,3 +17,4 @@
 /home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Persistence/obj/Debug/net8.0/ref/eventAppAPI.Persistence.dll
 /home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Persistence/bin/Debug/net8.0/eventAppAPI.Persistence.runtimeconfig.json
 /home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Persistence/obj/Debug/net8.0/eventAppAPI.Persistence.genruntimeconfig.cache
+/home/esta/Documents/eventApp/eventAppBackend/Infrastructure/eventAppAPI.Persistence/obj/Debug/net8.0/eventAppAPI.Persistence.sourcelink.json

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WF1FRbs7ngIYhl8qyIp56HNKIW9hQpl8J5H7Lvf4pe+1Nvv8XT3DkFtGNiyOkAnLl8P50TaUrr6gg4mcYg2U9w==",
+  "dgSpecHash": "KdjyrYgFpCnrf8v+h2CIUa3r7Y6jdvbSLT0S+mE1Ea7C+tTU7KGtTr0eFrJ+iEn/b4HurMHd3TZ+69fq+iYupg==",
   "success": true,
   "projectFilePath": "/home/esta/Documents/eventApp/eventAppBackend/Presentation/eventAppAPI.API/eventAppAPI.API.csproj",
   "expectedPackageFiles": [
+    "/home/esta/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/home/esta/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.11.0/fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "/home/esta/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/esta/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/home/esta/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

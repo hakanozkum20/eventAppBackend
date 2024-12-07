@@ -9,3 +9,4 @@
 /home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/refint/eventAppAPI.Domain.dll
 /home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/eventAppAPI.Domain.pdb
 /home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/ref/eventAppAPI.Domain.dll
+/home/esta/Documents/eventApp/eventAppBackend/Core/eventAppAPI.Domain/obj/Debug/net8.0/eventAppAPI.Domain.sourcelink.json

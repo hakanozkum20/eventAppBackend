@@ -12,7 +12,7 @@ using eventAppAPI.Persistence.Contexts;
 namespace eventAppAPI.Persistence.Migrations
 {
     [DbContext(typeof(eventAppAPIDbContext))]
-    [Migration("20241202143425_m2")]
+    [Migration("20241204205003_m2")]
     partial class m2
     {
         /// <inheritdoc />
@@ -27,11 +27,11 @@ namespace eventAppAPI.Persistence.Migrations
 
             modelBuilder.Entity("CustomerUser", b =>
                 {
-                    b.Property<int>("CustomersId")
-                        .HasColumnType("integer");
+                    b.Property<Guid>("CustomersId")
+                        .HasColumnType("uuid");
 
-                    b.Property<int>("UsersId")
-                        .HasColumnType("integer");
+                    b.Property<Guid>("UsersId")
+                        .HasColumnType("uuid");
 
                     b.HasKey("CustomersId", "UsersId");
 
@@ -42,11 +42,9 @@ namespace eventAppAPI.Persistence.Migrations
 
             modelBuilder.Entity("eventAppAPI.Domain.Entities.Customer", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+                        .HasColumnType("uuid");
 
                     b.Property<string>("Address")
                         .HasColumnType("text");
@@ -79,37 +77,66 @@ namespace eventAppAPI.Persistence.Migrations
 
             modelBuilder.Entity("eventAppAPI.Domain.Entities.Event", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
+                        .HasColumnType("uuid");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+                    b.Property<string>("BrideName")
+                        .HasColumnType("text");
+
+                    b.Property<string>("BrideSurname")
+                        .IsRequired()
+                        .HasColumnType("text");
 
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("timestamp with time zone");
 
-                    b.Property<int?>("CustomerId")
-                        .HasColumnType("integer");
+                    b.Property<Guid?>("CustomerId")
+                        .HasColumnType("uuid");
 
-                    b.Property<DateTime>("EventDate")
-                        .HasColumnType("timestamp with time zone");
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("text");
 
                     b.Property<int>("EventType")
                         .HasColumnType("integer");
 
-                    b.Property<string>("HostedNameSucxrname")
+                    b.Property<string>("GroomName")
+                        .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("GroomSurname")
+                        .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<float>("Price")
+                    b.Property<string>("HostedNameSurname")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Menu")
+                        .HasColumnType("text");
+
+                    b.Property<int>("NumberOfGuests")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("Phone")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<float?>("Price")
                         .HasColumnType("real");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("text");
 
                     b.Property<DateTime>("UpdatedDate")
                         .HasColumnType("timestamp with time zone");
 
-                    b.Property<string>("title")
+                    b.Property<string>("eventDate")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("eventTime")
                         .IsRequired()
                         .HasColumnType("text");
 
@@ -122,11 +149,9 @@ namespace eventAppAPI.Persistence.Migrations
 
             modelBuilder.Entity("eventAppAPI.Domain.Entities.User", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+                        .HasColumnType("uuid");
 
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("timestamp with time zone");

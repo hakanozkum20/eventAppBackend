@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using eventAppAPI.Domain.Entities.Common;
 
+
 namespace eventAppAPI.Domain.Entities
 {
     public class Customer:BaseEntity
