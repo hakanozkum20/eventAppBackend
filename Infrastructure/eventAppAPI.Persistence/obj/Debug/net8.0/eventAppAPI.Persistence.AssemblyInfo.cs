@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eventAppAPI.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aabae566c0a35df14e5f0b8c606d01512f86a44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74f1e9239974f4ccd531c20762b1a0522ebc8d04")]
 [assembly: System.Reflection.AssemblyProductAttribute("eventAppAPI.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eventAppAPI.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
